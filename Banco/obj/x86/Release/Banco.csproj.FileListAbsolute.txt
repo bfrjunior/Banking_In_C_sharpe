@@ -1,0 +1,10 @@
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Projeto final Operações bancarias em C#\Operações bancarias em C#\Banco\bin\Release\Banco.exe
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Projeto final Operações bancarias em C#\Operações bancarias em C#\Banco\bin\Release\Banco.pdb
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Projeto final Operações bancarias em C#\Operações bancarias em C#\Banco\obj\x86\Release\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Projeto final Operações bancarias em C#\Operações bancarias em C#\Banco\obj\x86\Release\Banco.Form1.resources
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Projeto final Operações bancarias em C#\Operações bancarias em C#\Banco\obj\x86\Release\Banco.Form2.resources
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Projeto final Operações bancarias em C#\Operações bancarias em C#\Banco\obj\x86\Release\Banco.Form3.resources
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Projeto final Operações bancarias em C#\Operações bancarias em C#\Banco\obj\x86\Release\Banco.Properties.Resources.resources
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Projeto final Operações bancarias em C#\Operações bancarias em C#\Banco\obj\x86\Release\Banco.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Projeto final Operações bancarias em C#\Operações bancarias em C#\Banco\obj\x86\Release\Banco.exe
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Projeto final Operações bancarias em C#\Operações bancarias em C#\Banco\obj\x86\Release\Banco.pdb

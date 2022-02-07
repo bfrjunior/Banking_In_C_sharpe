@@ -1,0 +1,15 @@
+OLÁ 
+
+para usar o sistema do banco faça os seguintes passos:
+
+1# Crie uma conta no botão cadastrar 
+   Escolha o modelo e tipo do banco logo após coloque seu NOME.
+
+2# Logo após cirar sua conta volte para a tela de login e digite o numero
+   da sua conta que foi cadastrada exemplo numero 0 .
+
+3# logo apos logar digite seu deposito e proveite!
+   obs:nosso banco possui uma taxa em suas tranferencia.
+   exemplo: saldo 1000 tranferencia de 500 vc ficara com 499.8
+   para transferemcia digite o valor e o numero da conta desejada exemplo numero 1 .	
+	

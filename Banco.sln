@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banco", "Banco\Banco.csproj", "{C4EEF766-9CF5-4EB7-B852-D52ACE92872B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "sistema_bancario_instalador", "sistema_bancario_instalador\sistema_bancario_instalador.vdproj", "{A7379100-09E3-4742-8FB0-883FF89F6148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4EEF766-9CF5-4EB7-B852-D52ACE92872B}.Debug|x64.ActiveCfg = Debug|x64
+		{C4EEF766-9CF5-4EB7-B852-D52ACE92872B}.Debug|x64.Build.0 = Debug|x64
+		{C4EEF766-9CF5-4EB7-B852-D52ACE92872B}.Debug|x86.ActiveCfg = Debug|x86
+		{C4EEF766-9CF5-4EB7-B852-D52ACE92872B}.Debug|x86.Build.0 = Debug|x86
+		{C4EEF766-9CF5-4EB7-B852-D52ACE92872B}.Release|x64.ActiveCfg = Release|x64
+		{C4EEF766-9CF5-4EB7-B852-D52ACE92872B}.Release|x64.Build.0 = Release|x64
+		{C4EEF766-9CF5-4EB7-B852-D52ACE92872B}.Release|x86.ActiveCfg = Release|x86
+		{C4EEF766-9CF5-4EB7-B852-D52ACE92872B}.Release|x86.Build.0 = Release|x86
+		{A7379100-09E3-4742-8FB0-883FF89F6148}.Debug|x64.ActiveCfg = Debug
+		{A7379100-09E3-4742-8FB0-883FF89F6148}.Debug|x64.Build.0 = Debug
+		{A7379100-09E3-4742-8FB0-883FF89F6148}.Debug|x86.ActiveCfg = Debug
+		{A7379100-09E3-4742-8FB0-883FF89F6148}.Release|x64.ActiveCfg = Release
+		{A7379100-09E3-4742-8FB0-883FF89F6148}.Release|x64.Build.0 = Release
+		{A7379100-09E3-4742-8FB0-883FF89F6148}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

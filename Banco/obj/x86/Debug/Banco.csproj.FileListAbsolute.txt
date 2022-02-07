@@ -1,0 +1,74 @@
+c:\users\lab\documents\visual studio 2010\Projects\Banco\Banco\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\lab\documents\visual studio 2010\Projects\Banco\Banco\obj\x86\Debug\Banco.Form1.resources
+c:\users\lab\documents\visual studio 2010\Projects\Banco\Banco\obj\x86\Debug\Banco.Form2.resources
+c:\users\lab\documents\visual studio 2010\Projects\Banco\Banco\obj\x86\Debug\Banco.Properties.Resources.resources
+c:\users\lab\documents\visual studio 2010\Projects\Banco\Banco\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\lab\documents\visual studio 2010\Projects\Banco\Banco\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\lab\documents\visual studio 2010\Projects\Banco\Banco\bin\Debug\Banco.exe
+c:\users\lab\documents\visual studio 2010\Projects\Banco\Banco\bin\Debug\Banco.pdb
+c:\users\lab\documents\visual studio 2010\Projects\Banco\Banco\obj\x86\Debug\Banco.exe
+c:\users\lab\documents\visual studio 2010\Projects\Banco\Banco\obj\x86\Debug\Banco.pdb
+C:\Users\Lab\Desktop\Banco\Banco\obj\x86\Debug\Banco.exe
+C:\Users\Lab\Desktop\Banco\Banco\obj\x86\Debug\Banco.pdb
+C:\Users\Lab\Desktop\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Lab\Desktop\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Lab\Desktop\Banco\Banco\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lab\Desktop\Banco\Banco\obj\x86\Debug\Banco.Form1.resources
+C:\Users\Lab\Desktop\Banco\Banco\obj\x86\Debug\Banco.Form2.resources
+C:\Users\Lab\Desktop\Banco\Banco\obj\x86\Debug\Banco.Properties.Resources.resources
+C:\Users\Lab\Desktop\Banco\Banco\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Lab\Desktop\Banco\Banco\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Lab\Desktop\Banco\Banco\obj\x86\Debug\Banco.Form3.resources
+C:\Users\Carida\Desktop\trabalho gustavo\Banco\Banco\obj\x86\Debug\Banco.exe
+C:\Users\Carida\Desktop\trabalho gustavo\Banco\Banco\obj\x86\Debug\Banco.pdb
+C:\Users\Carida\Desktop\trabalho gustavo\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Carida\Desktop\trabalho gustavo\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Carida\Desktop\trabalho gustavo\Banco\Banco\obj\x86\Debug\Banco.Form1.resources
+C:\Users\Carida\Desktop\trabalho gustavo\Banco\Banco\obj\x86\Debug\Banco.Form2.resources
+C:\Users\Carida\Desktop\trabalho gustavo\Banco\Banco\obj\x86\Debug\Banco.Form3.resources
+C:\Users\Carida\Desktop\trabalho gustavo\Banco\Banco\obj\x86\Debug\Banco.Properties.Resources.resources
+C:\Users\Carida\Desktop\trabalho gustavo\Banco\Banco\obj\x86\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Carida\Desktop\Banco3\Banco\obj\x86\Debug\Banco.exe
+C:\Users\Carida\Desktop\Banco3\Banco\obj\x86\Debug\Banco.pdb
+D:\Usuarios\Rodrigo\Downloads\Banco3\Banco\obj\x86\Debug\Banco.exe
+D:\Usuarios\Rodrigo\Downloads\Banco3\Banco\obj\x86\Debug\Banco.pdb
+D:\Usuarios\Rodrigo\Downloads\Banco3\Banco\bin\Debug\Banco.exe
+D:\Usuarios\Rodrigo\Downloads\Banco3\Banco\bin\Debug\Banco.pdb
+D:\Usuarios\Rodrigo\Downloads\Banco3\Banco\obj\x86\Debug\Banco.Form1.resources
+D:\Usuarios\Rodrigo\Downloads\Banco3\Banco\obj\x86\Debug\Banco.Form2.resources
+D:\Usuarios\Rodrigo\Downloads\Banco3\Banco\obj\x86\Debug\Banco.Form3.resources
+D:\Usuarios\Rodrigo\Downloads\Banco3\Banco\obj\x86\Debug\Banco.Properties.Resources.resources
+D:\Usuarios\Rodrigo\Downloads\Banco3\Banco\obj\x86\Debug\Banco.csproj.GenerateResource.Cache
+D:\Usuarios\Rodrigo\Downloads\Banco3\Banco\obj\x86\Debug\Banco.csprojResolveAssemblyReference.cache
+D:\Usuarios\Rodrigo\Downloads\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.exe
+D:\Usuarios\Rodrigo\Downloads\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.pdb
+D:\Usuarios\Rodrigo\Downloads\Banco3 cabecinha\Banco\bin\Debug\Banco.exe
+D:\Usuarios\Rodrigo\Downloads\Banco3 cabecinha\Banco\bin\Debug\Banco.pdb
+D:\Usuarios\Rodrigo\Downloads\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.csprojResolveAssemblyReference.cache
+D:\Usuarios\Rodrigo\Downloads\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.Form1.resources
+D:\Usuarios\Rodrigo\Downloads\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.Form2.resources
+D:\Usuarios\Rodrigo\Downloads\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.Form3.resources
+D:\Usuarios\Rodrigo\Downloads\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.Properties.Resources.resources
+D:\Usuarios\Rodrigo\Downloads\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Osvaldo\Desktop\exame prog 3\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.exe
+C:\Users\Osvaldo\Desktop\exame prog 3\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.pdb
+C:\Users\Osvaldo\Desktop\exame prog 3\Banco3 cabecinha\Banco\bin\Debug\Banco.exe
+C:\Users\Osvaldo\Desktop\exame prog 3\Banco3 cabecinha\Banco\bin\Debug\Banco.pdb
+C:\Users\Osvaldo\Desktop\exame prog 3\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Osvaldo\Desktop\exame prog 3\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.Form1.resources
+C:\Users\Osvaldo\Desktop\exame prog 3\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.Form2.resources
+C:\Users\Osvaldo\Desktop\exame prog 3\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.Form3.resources
+C:\Users\Osvaldo\Desktop\exame prog 3\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.Properties.Resources.resources
+C:\Users\Osvaldo\Desktop\exame prog 3\Banco3 cabecinha\Banco\obj\x86\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Operações bancarias em C#\Banco\obj\x86\Debug\Banco.exe
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Operações bancarias em C#\Banco\obj\x86\Debug\Banco.pdb
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Operações bancarias em C#\Banco\bin\Debug\Banco.exe
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Operações bancarias em C#\Banco\bin\Debug\Banco.pdb
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Operações bancarias em C#\Banco\obj\x86\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Operações bancarias em C#\Banco\obj\x86\Debug\Banco.Form1.resources
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Operações bancarias em C#\Banco\obj\x86\Debug\Banco.Form2.resources
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Operações bancarias em C#\Banco\obj\x86\Debug\Banco.Form3.resources
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Operações bancarias em C#\Banco\obj\x86\Debug\Banco.Properties.Resources.resources
+C:\Users\Fernando\Documents\Visual Studio 2015\Projects\Operações bancarias em C#\Banco\obj\x86\Debug\Banco.csproj.GenerateResource.Cache
+C:\Users\Fernando\Desktop\Operações bancarias em C#\Banco\obj\x86\Debug\Banco.exe
+C:\Users\Fernando\Desktop\Operações bancarias em C#\Banco\obj\x86\Debug\Banco.pdb
